@@ -35,7 +35,7 @@ Based on [aioftp server](https://github.com/aio-libs/aioftp/blob/master/aioftp/s
   7. Copy id to .env
   8. Create mongodb database named `ftp`.
   9. Run `setup_database.py`.
-  10. Run `create_accounts.py` to create accounts.
+  10. Run `accounts_manager.py` to create accounts.
   11. Run `main.py`.
 
 </details>
