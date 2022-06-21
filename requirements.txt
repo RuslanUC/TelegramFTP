@@ -3,3 +3,4 @@ pymongo
 pymongo[srv]
 dnspython
 motor
+chardet
